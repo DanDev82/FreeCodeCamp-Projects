@@ -1,8 +1,5 @@
 body {
-	background-image: url('https://img.ifcdn.com/images/50eb4d14716a27614bcecadf2f169d5fd98e90dbe6f8223f9ef2a4f2aed237fb_3.jpg');
-	background-repeat: no-repeat;
-	background-size: cover;
-	width: 100%;
+	background: black;
 }
 
 .space-between {
@@ -12,3 +9,4 @@ body {
 h1 {
 	color: lightblue;
 }
+

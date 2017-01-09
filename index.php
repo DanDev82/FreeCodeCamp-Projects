@@ -4,6 +4,9 @@
 	<?php include 'head.html';?>
 </head>
 <body>
+	<!-- 10px top/bottom spacing -->
+	<?php include '/space-between.html';?>
+
 	<!-- header -->
 	<?php include 'index-header.html';?>
 
