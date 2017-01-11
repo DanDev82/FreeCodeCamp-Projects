@@ -3,8 +3,22 @@
 	padding: 0;
 }
 
-h2 {
+body {
+	background: #404040;
+}
+
+h2, h3 {
+	color: white;
 	text-decoration: underline;
+}
+
+span {
+	color: white;
+}
+
+p {
+	color: white;
+	font-size: 22px;
 }
 
 .read-less {
@@ -29,6 +43,7 @@ h2 {
 }
 
 .rightColumn {
+	background: black;
 	border-top: 1px solid #ccc;	
 	border-right: 1px solid #ccc;
 	border-bottom: 1px solid #ccc;
